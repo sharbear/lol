@@ -1,1 +1,7 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="controls_repeat" id="32" inline="true" x="0" y="65">
+    <statement name="DO">
+      <block type="movement_right" id="10"></block>
+    </statement>
+  </block>
+</xml>
